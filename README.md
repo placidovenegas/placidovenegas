@@ -3,7 +3,7 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'lapalma';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Plácido Venegas';
